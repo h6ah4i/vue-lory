@@ -20,6 +20,6 @@
     "vue": ">=2"
   },
   "dependencies": {
-    "lory.js": "^2.2.1"
+    "lory.js": "^2.3.4"
   }
 }
